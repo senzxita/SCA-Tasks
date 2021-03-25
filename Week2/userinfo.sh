@@ -4,8 +4,8 @@ do
 Userinfo='echo Username:$f1 GID:$f4 Homedir:$f6 shell:$f7'
 done < /etc/passwd
 
-nano Userinfo.txt
-echo Userinfo
+
+echo Userinfo Userinfo.txt
 
 
 cd home/cloudqueen/SCA-Tasks
