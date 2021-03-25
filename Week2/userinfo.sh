@@ -10,8 +10,8 @@ done < /etc/passwd
 
 
 cd /home/cloudqueen/SCA-Tasks
-git add .
-git commit -m "Created a bash script to read /etc/passwd file "
-git push origin main
+sudo git add .
+sudo git commit -m "Created a bash script to read /etc/passwd file "
+sudo git push origin main
 
 
