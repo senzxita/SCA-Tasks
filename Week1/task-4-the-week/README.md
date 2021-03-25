@@ -10,6 +10,7 @@ For example,
 ``` 
 sudo groupadd mentor
 ```
+You can check the list of group accounts created using `cat /etc/group `
 - Assigning 15 users across the 3 groups created. I assigned 5 users to each group using ` sudo usermod -a -G groupname username `.
 For example,
 ```
