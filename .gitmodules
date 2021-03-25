@@ -1,0 +1,6 @@
+[submodule "Week3/Week3/practicedocker"]
+	path = Week3/Week3/practicedocker
+	url = https://github.com/senzxita/practicedocker.git
+[submodule "Week3/practicedockers"]
+	path = Week3/practicedockers
+	url = https://github.com/senzxita/practicedocker.git
