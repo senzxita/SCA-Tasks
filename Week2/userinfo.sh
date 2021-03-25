@@ -9,9 +9,9 @@ done < /etc/passwd
 #echo $Userinfo > userinfo.txt
 
 
-cd /home/cloudqueen/SCA-Tasks
-sudo git add .
-sudo git commit -m "Created a bash script to read /etc/passwd file "
-sudo git push origin main
+#cd /home/cloudqueen/SCA-Tasks
+#sudo git add .
+#sudo git commit -m "Created a bash script to read /etc/passwd file "
+#sudo git push origin main
 
 
