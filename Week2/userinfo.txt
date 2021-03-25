@@ -1,1 +1,1 @@
-
+Username:deborah GID:1015 Homedir:/home/deborah shell:/bin/sh
