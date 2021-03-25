@@ -1,5 +1,5 @@
 # Bash Scripting
-Bash is a command line language that stands for Bourne Again Shel. It is convention to give files that Bash scripts an extension of .sh
+Bash is a command line language that stands for Bourne Again Shell. It is convention to give files that Bash scripts an extension of .sh
 shebang -> #!
 e.g 
 ```
