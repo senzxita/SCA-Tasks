@@ -5,4 +5,7 @@ e.g
 ```
 #!/bin/bash
 ```
-The path above is the path to the interpreter (program) that used to run the rest of the lines in the text file
+The path above is the path to the interpreter (program) that used to run the rest of the lines in the text file.
+
+## Reading /etc/passwd file using a bash script
+
