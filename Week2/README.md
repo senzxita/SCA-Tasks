@@ -8,4 +8,4 @@ e.g
 The path above is the path to the interpreter (program) that used to run the rest of the lines in the text file.
 
 ## Reading /etc/passwd file using a bash script
-
+split the contents of /etc/passwd file into Username, GID, home directory and shell and pushed changes to github.
