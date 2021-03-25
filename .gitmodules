@@ -1,3 +1,15 @@
 [submodule "Week3/practicedockers"]
 	path = Week3/practicedockers
 	url = https://github.com/senzxita/practicedocker.git
+[submodule "Week3/Week3/kubernetes"]
+	path = Week3/Week3/kubernetes
+	url = https://github.com/senzxita/Nodejs-MySQL-Web-Application.git
+[submodule "Week3/kubernetes"]
+	path = Week3/kubernetes
+	url = https://github.com/senzxita/Nodejs-MySQL-Web-Application.git
+[submodule "Week3/kube"]
+	path = Week3/kube
+	url = https://github.com/csanc195/Nodejs-MySQL-Web-Application.git
+[submodule "Week3/kuber"]
+	path = Week3/kuber
+	url = https://github.com/senzxita/Nodejs-MySQL-Web-Application.git
