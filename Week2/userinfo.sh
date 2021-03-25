@@ -2,7 +2,7 @@
 
 while IFS=: read -r f1 f2 f3 f4 f5 f6 f7
 do
-echo Username:$f1| GID:$f4| Homedir:$f6| shell:$f7
+echo Username:$f1 GID:$f4 Homedir:$f6 shell:$f7
 done < /etc/passwd
 
 
