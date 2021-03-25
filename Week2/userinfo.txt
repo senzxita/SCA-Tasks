@@ -1,1 +1,1 @@
-Username:$f1 GID:$f4 Homedir:$f6 shell:$f7
+Username:deborah GID:1015 Homedir:/home/deborah shell:/bin/sh
