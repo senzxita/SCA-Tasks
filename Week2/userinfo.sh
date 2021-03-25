@@ -9,7 +9,7 @@ done < /etc/passwd
 #echo $Userinfo > userinfo.txt
 
 
-cd home/cloudqueen/SCA-Tasks
+cd /home/cloudqueen/SCA-Tasks
 git add .
 git commit -m "Created a bash script to read /etc/passwd file "
 git push origin main
