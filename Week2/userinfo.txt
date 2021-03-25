@@ -1,1 +1,1 @@
-echo Username:$f1 GID:$f4 Homedir:$f6 shell:$f7
+
